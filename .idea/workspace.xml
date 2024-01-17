@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4edf2d0b-9342-4482-bbeb-fb9bf4f42a67" name="Changes" comment="Update workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geodata_backend/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/geodata_backend/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geodata_backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geodata_backend/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geodata_backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geodata_backend/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geodata_backend/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/geodata_backend/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    <list default="true" id="4edf2d0b-9342-4482-bbeb-fb9bf4f42a67" name="Changes" comment="Run black">
+      <change beforePath="$PROJECT_DIR$/.git/hooks/pre-push" beforeDir="false" afterPath="$PROJECT_DIR$/.git/hooks/pre-push" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +69,7 @@
       <updated>1705504150315</updated>
       <workItem from="1705504163568" duration="1356000" />
       <workItem from="1705505521920" duration="973000" />
-      <workItem from="1705506504885" duration="2093000" />
+      <workItem from="1705506504885" duration="2266000" />
     </task>
     <task id="LOCAL-00001" summary="Update .gitignore">
       <option name="closed" value="true" />
@@ -130,17 +119,45 @@
       <option name="project" value="LOCAL" />
       <updated>1705525354172</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Run black">
+      <option name="closed" value="true" />
+      <created>1705525995274</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705525995274</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Run black">
+      <option name="closed" value="true" />
+      <created>1705526009682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705526009682</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update .gitignore" />
     <MESSAGE value="Init Django project" />
     <MESSAGE value="Update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml" />
+    <MESSAGE value="Run black" />
+    <option name="LAST_COMMIT_MESSAGE" value="Run black" />
   </component>
 </project>
