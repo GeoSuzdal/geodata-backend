@@ -1,3 +1,1 @@
 # geodata-backend
-
-Hello world!
