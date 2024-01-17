@@ -1,0 +1,57 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"4edf2d0b-9342-4482-bbeb-fb9bf4f42a67\" name=\"Changes\" comment=\"Run black\">\n      <change beforePath=\"$PROJECT_DIR$/.git/hooks/pre-push\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.git/hooks/pre-push\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n    \"state\": \"OPEN\",\n    \"assignee\": \"smbrine\"\n  }\n}]]></component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"2f58e0b7-179f-40ac-9cb6-d1bd625b9664\" />\n        <option name=\"url\" value=\"https://github.com/GeoSuzdal/geodata-backend.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 7\n}</component>\n  <component name=\"ProjectId\" id=\"2b5TssKOxFSDu4mgBxqAp78dyyz\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"last_opened_file_path\": \"/Users/nicksmirnov/NoCloud/GeoSuzdal/geodata-backend\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"preferences.fileTypes\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"4edf2d0b-9342-4482-bbeb-fb9bf4f42a67\" name=\"Changes\" comment=\"\" />\n      <created>1705504150315</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1705504150315</updated>\n      <workItem from=\"1705504163568\" duration=\"1356000\" />\n      <workItem from=\"1705505521920\" duration=\"973000\" />\n      <workItem from=\"1705506504885\" duration=\"2266000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Update .gitignore\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705505845982</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705505845982</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Update .gitignore\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705506082669</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705506082669</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Init Django project\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705506628505</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705506628505</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Init Django project\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705506665327</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705506665327</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Init Django project\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705525331256</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705525331256</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Update workspace.xml\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705525354172</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705525354172</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Run black\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705525995274</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705525995274</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Run black\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705526009682</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705526009682</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"9\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n    <MESSAGE value=\"Update .gitignore\" />\n    <MESSAGE value=\"Init Django project\" />\n    <MESSAGE value=\"Update workspace.xml\" />\n    <MESSAGE value=\"Run black\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Run black\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f528d1d59a57a9fc2f218c7d5d4ce642f2f30f87)
++++ b/.idea/workspace.xml	(date 1705526952332)
+@@ -4,8 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="4edf2d0b-9342-4482-bbeb-fb9bf4f42a67" name="Changes" comment="Run black">
+-      <change beforePath="$PROJECT_DIR$/.git/hooks/pre-push" beforeDir="false" afterPath="$PROJECT_DIR$/.git/hooks/pre-push" afterDir="false" />
++    <list default="true" id="4edf2d0b-9342-4482-bbeb-fb9bf4f42a67" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -69,7 +69,7 @@
+       <updated>1705504150315</updated>
+       <workItem from="1705504163568" duration="1356000" />
+       <workItem from="1705505521920" duration="973000" />
+-      <workItem from="1705506504885" duration="2266000" />
++      <workItem from="1705506504885" duration="3068000" />
+     </task>
+     <task id="LOCAL-00001" summary="Update .gitignore">
+       <option name="closed" value="true" />
+@@ -135,7 +135,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1705526009682</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
++      <option name="closed" value="true" />
++      <created>1705526257244</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1705526257244</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -158,6 +166,7 @@
+     <MESSAGE value="Init Django project" />
+     <MESSAGE value="Update workspace.xml" />
+     <MESSAGE value="Run black" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Run black" />
++    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
++    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+   </component>
+ </project>
+\ No newline at end of file

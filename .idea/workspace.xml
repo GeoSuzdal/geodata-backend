@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4edf2d0b-9342-4482-bbeb-fb9bf4f42a67" name="Changes" comment="Run black">
-      <change beforePath="$PROJECT_DIR$/.git/hooks/pre-push" beforeDir="false" afterPath="$PROJECT_DIR$/.git/hooks/pre-push" afterDir="false" />
+    <list default="true" id="4edf2d0b-9342-4482-bbeb-fb9bf4f42a67" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <updated>1705504150315</updated>
       <workItem from="1705504163568" duration="1356000" />
       <workItem from="1705505521920" duration="973000" />
-      <workItem from="1705506504885" duration="2266000" />
+      <workItem from="1705506504885" duration="3068000" />
     </task>
     <task id="LOCAL-00001" summary="Update .gitignore">
       <option name="closed" value="true" />
@@ -135,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705526009682</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1705526257244</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705526257244</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +166,7 @@
     <MESSAGE value="Init Django project" />
     <MESSAGE value="Update workspace.xml" />
     <MESSAGE value="Run black" />
-    <option name="LAST_COMMIT_MESSAGE" value="Run black" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
 </project>
