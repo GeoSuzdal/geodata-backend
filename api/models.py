@@ -9,5 +9,5 @@ class Record(models.Model):
     
 class GeoJSON(models.Model):
     id=models.CharField(max_length=16)
-    tag=''
-    obj=''
+    tag=models.CharField(max_length=16)
+    obj=models.JSONField(max_length=16)
